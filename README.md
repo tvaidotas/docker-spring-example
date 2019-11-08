@@ -4,7 +4,7 @@
 
 Have java installed on the machine:
 
-`sudo apt install -y default jdk`
+`sudo apt install -y default-jdk`
 
 # Step 2 
 
